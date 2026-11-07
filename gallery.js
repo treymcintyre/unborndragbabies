@@ -46,6 +46,10 @@ const galleryItems = [
     image: "images/DeloresAmericano.png",
     title: "Delores Americano"
   },
+  {
+    image: "images/TaraNewone.png",
+    title: "Tara Newone"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
