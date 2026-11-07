@@ -50,6 +50,10 @@ const galleryItems = [
     image: "images/deetainedorfriedagough.png",
     title: "Dee Tained or Frieda Gough"
   },
+  {
+    image: "images/CherryTBall.png",
+    title: "Cherry T. Ball"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
