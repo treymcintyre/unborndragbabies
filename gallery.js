@@ -58,6 +58,10 @@ const galleryItems = [
     image: "images/PepperCoulis.png",
     title: "Pepper Coulis"
   },
+   {
+    image: "images/LukeWarmwater.png",
+    title: "Luke Warmwater"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
