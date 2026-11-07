@@ -62,6 +62,114 @@ const galleryItems = [
     image: "images/LukeWarmwater.png",
     title: "Luke Warmwater"
   },
+   {
+    image: "images/HeidiSalami.png",
+    title: "Heidi Salami"
+  },
+  {
+    image: "images/ClatsyPine.png",
+    title: "Clatsy Pine"
+  },
+  {
+    image: "images/DixieNormus.png",
+    title: "Dixie Normus"
+  },
+  {
+    image: "images/AriEsbyIsiti.png",
+    title: "Ari Esby Isiti"
+  },
+  {
+    image: "images/CarmenEnemy.png",
+    title: "Carmen Enemy"
+  },
+  {
+    image: "images/ZaminaEvidence.png",
+    title: "Zamina Evidence"
+  },
+  {
+    image: "images/DafarmerindaDell.png",
+    title: "Dafarmerinda Dell"
+  },
+  {
+    image: "images/ElsieYassoon.png",
+    title: "Elsie Yassoon"
+  },
+  {
+    image: "images/SebatiaCyst.png",
+    title: "Sebatia Cyst"
+  },
+  {
+    image: "images/EdenTacos.png",
+    title: "Eden Tacos"
+  },
+  {
+    image: "images/RhondaCVS.png",
+    title: "Rhonda CVS"
+  },
+  {
+    image: "images/ArleneEconomy.png",
+    title: "Arlene Economy"
+  },
+  {
+    image: "images/SonaVabitch.png",
+    title: "Sona Vabitch"
+  },
+  {
+    image: "images/BurritzaBlizzard.png",
+    title: "Burritza Blizzard"
+  },
+  {
+    image: "images/IonaCamarro.png",
+    title: "Iona Camarro"
+  },
+  {
+    image: "images/JezebelBottoms.png",
+    title: "Jezebel Bottoms"
+  },
+  {
+    image: "images/SarahSoda.png",
+    title: "Sarah Soda"
+  },
+  {
+    image: "images/DameDoodieStench.png",
+    title: "Dame Doodie Stench"
+  },
+  {
+    image: "images/Debris.png",
+    title: "Debris"
+  },
+  {
+    image: "images/CherMiscreen.png",
+    title: "Cher Miscreen"
+  },
+  {
+    image: "images/DawnPowerwash.png",
+    title: "Dawn Powerwash"
+  },
+  {
+    image: "images/SashaGoodquestion.png",
+    title: "Sasha Goodquestion"
+  },
+  {
+    image: "images/MoLashes.png",
+    title: "Mo Lashes"
+  },
+  {
+    image: "images/TeuwetiaZone.png",
+    title: "Teuwetia Zone"
+  },
+  {
+    image: "images/ShirleyWoodhave.png",
+    title: "Shirley Woodhave"
+  },
+  {
+    image: "images/RapunzelWiig.png",
+    title: "Rapunzel Wiig"
+  },
+  {
+    image: "images/HerdaBlame.png",
+    title: "Herda Blame"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
