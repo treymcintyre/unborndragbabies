@@ -6,6 +6,10 @@ const galleryItems = [
     image: "images/SharonVonBathroom.png",
     title: "Sharon Von Bathroom"
   },
+  {
+    image: "images/Hartigay.png",
+    title: "Hartigay"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
