@@ -1,23 +1,13 @@
 /*
   ADD YOUR ARTWORK HERE.
-
-  1. Put each image file in the "images" folder.
-  2. Add an entry below with its filename, title, and (optionally) description.
-  3. Save/commit the changes to publish the update.
-
-  Example with a paragraph:
-  { image: "images/portrait-01.jpg", title: "Portrait title", description: "A paragraph about this image." },
-
-  Example without a paragraph:
-  { image: "images/portrait-02.jpg", title: "Another portrait" },
 */
 const galleryItems = [
-  // Add entries here, one per image:
-  // { image: "images/your-image.jpg", title: "Your image title", description: "Optional paragraph text." },
+  {
+    image: "images/SharonVonBathroom.png",
+    title: "Sharon Von Bathroom"
+  },
 ];
- ```js
-   { image: "SharonVonBathroom.png", title: "Sharon Von Bathroom" },
-   ```
+
 const emptyState = document.getElementById("emptyState");
 const galleryView = document.getElementById("galleryView");
 const imageElement = document.getElementById("galleryImage");
