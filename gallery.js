@@ -18,6 +18,10 @@ const galleryItems = [
     image: "images/ZizisaJoke.png",
     title: "Zizisa Joke"
   },
+  {
+    image: "images/dborahlive.png",
+    title: "Déborah Live"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
