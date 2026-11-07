@@ -11,6 +11,9 @@
   Example without a paragraph:
   { image: "images/portrait-02.jpg", title: "Another portrait" },
 */
+ ```js
+   { image: "SharonVonBathroom.png", title: "Another image title" },
+   ```
 
 const galleryItems = [
   // Add entries here, one per image:
