@@ -14,6 +14,10 @@ const galleryItems = [
     image: "images/PistachioNutmeats.png",
     title: "Pistachio Nutmeats"
   },
+    {
+    image: "images/ZizisaJoke.png",
+    title: "Zizisa Joke"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
