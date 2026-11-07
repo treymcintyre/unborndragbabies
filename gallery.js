@@ -11,15 +11,13 @@
   Example without a paragraph:
   { image: "images/portrait-02.jpg", title: "Another portrait" },
 */
- ```js
-   { image: "SharonVonBathroom.png", title: "Sharon Von Bathroom" },
-   ```
-
 const galleryItems = [
   // Add entries here, one per image:
   // { image: "images/your-image.jpg", title: "Your image title", description: "Optional paragraph text." },
 ];
-
+ ```js
+   { image: "SharonVonBathroom.png", title: "Sharon Von Bathroom" },
+   ```
 const emptyState = document.getElementById("emptyState");
 const galleryView = document.getElementById("galleryView");
 const imageElement = document.getElementById("galleryImage");
