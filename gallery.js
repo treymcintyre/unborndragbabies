@@ -54,6 +54,10 @@ const galleryItems = [
     image: "images/CherryTBall.png",
     title: "Cherry T. Ball"
   },
+  {
+    image: "images/PepperCoulis.png",
+    title: "Pepper Coulis"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
