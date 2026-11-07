@@ -46,19 +46,41 @@
       margin: 0;
     }
     .image-frame {
-      width: 100%;
-      aspect-ratio: 4 / 5;
-      display: grid;
-      place-items: center;
-      overflow: hidden;
-      background: var(--purple-deep);
-      border: 1px solid rgba(255,255,255,.18);
+       width: 100%;
+  aspect-ratio: 4 / 5;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+
+  /* Antique gold frame */
+  padding: 13px;
+  background:
+    linear-gradient(135deg,
+      #f6e2a0 0%,
+      #a87824 12%,
+      #e8c46c 23%,
+      #80551b 38%,
+      #d9ad50 52%,
+      #f5df9b 65%,
+      #98651e 82%,
+      #e5c16d 100%);
+
+  border: 3px solid #6e491b;
+
+  box-shadow:
+    inset 0 0 0 2px #f5dda0,
+    inset 0 0 0 5px #95651f,
+    inset 0 0 0 7px #e7c879,
+    0 5px 15px rgba(0,0,0,.45);
     }
     .image-frame img {
       display: block;
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+
+  border: 2px solid #79521e;
+  box-shadow: 0 0 0 2px #e7c879;
     }
     figcaption { padding: 15px 8px 0; text-align: center; }
     .artwork-title {
