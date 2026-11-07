@@ -14,6 +14,10 @@ const galleryItems = [
     image: "images/Hartigay.png",
     title: "Hartigay"
   },
+   {
+    image: "images/SharonGoodtimes.png",
+    title: "Sharon Goodtimes"
+  },
   {
     image: "images/PistachioNutmeats.png",
     title: "Pistachio Nutmeats"
