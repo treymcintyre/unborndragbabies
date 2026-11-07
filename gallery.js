@@ -47,8 +47,8 @@ const galleryItems = [
     title: "Delores Americano"
   },
   {
-    image: "images/TaraNewone.png",
-    title: "Tara Newone"
+    image: "images/deetainedorfriedagough.png",
+    title: "Dee Tained or Frieda Gough"
   },
 ];
 
