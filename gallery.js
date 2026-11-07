@@ -12,7 +12,7 @@
   { image: "images/portrait-02.jpg", title: "Another portrait" },
 */
  ```js
-   { image: "SharonVonBathroom.png", title: "Another image title" },
+   { image: "SharonVonBathroom.png", title: "Sharon Von Bathroom" },
    ```
 
 const galleryItems = [
