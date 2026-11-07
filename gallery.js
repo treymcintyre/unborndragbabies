@@ -38,6 +38,10 @@ const galleryItems = [
     image: "images/SheHearse.png",
     title: "She Hearse"
   },
+  {
+    image: "images/ShixaGiggles.png",
+    title: "Shixa Giggles"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
