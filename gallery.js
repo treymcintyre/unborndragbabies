@@ -10,6 +10,10 @@ const galleryItems = [
     image: "images/Hartigay.png",
     title: "Hartigay"
   },
+  {
+    image: "PistachioNutmeats.png",
+    title: "Hartigay"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
