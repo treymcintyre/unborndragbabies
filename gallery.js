@@ -12,7 +12,7 @@ const galleryItems = [
   },
   {
     image: "PistachioNutmeats.png",
-    title: "Hartigay"
+    title: "Pistachio Nutmeats"
   },
 ];
 
