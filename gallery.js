@@ -22,6 +22,14 @@ const galleryItems = [
     image: "images/dborahlive.png",
     title: "Déborah Live"
   },
+  {
+    image: "images/MissMarshaLarts.png",
+    title: "Miss Marsha Larts"
+  },
+  {
+    image: "images/SheHearse.png",
+    title: "She Hearse"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
