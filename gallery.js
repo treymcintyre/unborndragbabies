@@ -3,6 +3,10 @@
 */
 const galleryItems = [
   {
+    image: "images/TaraNewone.png",
+    title: "Tara Newone"
+  },
+  {
     image: "images/SharonVonBathroom.png",
     title: "Sharon Von Bathroom"
   },
