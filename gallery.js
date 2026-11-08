@@ -27,7 +27,7 @@ const galleryItems = [
     title: "Zizisa Joke"
   },
   {
-    image: "images/dborahlive.png",
+    image: "images/DeborahLive.png",
     title: "Déborah Live"
   },
   {
