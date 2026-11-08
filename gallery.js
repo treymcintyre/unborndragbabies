@@ -174,6 +174,18 @@ const galleryItems = [
     image: "images/PerryMenopause.png",
     title: "Perry Menopause"
   },
+   {
+    image: "images/Daipy.png",
+    title: "Daipy"
+  },
+   {
+    image: "images/Diabeatrice.png",
+    title: "Diabeatrice"
+  },
+   {
+    image: "images/RhondaMarathon.png",
+    title: "Rhonda Marathon"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
