@@ -218,6 +218,10 @@ const galleryItems = [
     image: "images/NicoletteMipeoplego.png",
     title: "Nicolette Mipeoplego"
   },
+   {
+    image: "images/PhoebeSNewshour.png",
+    title: "Phoebe S. Newshour"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
