@@ -186,6 +186,22 @@ const galleryItems = [
     image: "images/RhondaMarathon.png",
     title: "Rhonda Marathon"
   },
+    {
+    image: "images/CocoaMassachusetts.png",
+    title: "Cocoa Massachusetts"
+  },
+    {
+    image: "images/DanaHalf.png",
+    title: "Dana Half"
+  },
+    {
+    image: "images/Pinkeye.png",
+    title: "Pinkeye"
+  },
+    {
+    image: "images/Matinee.png",
+    title: "Matinee"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
