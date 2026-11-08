@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -12,6 +13,7 @@
       --purple-deep: #351650;
       --text: #fff;
       --muted: #e3d6ed;
+      --arrow-width: clamp(42px, 8vw, 90px);
     }
 
     * {
@@ -50,9 +52,11 @@
       margin: 0 auto;
     }
 
+    /* GALLERY LAYOUT */
+
     .gallery {
       display: grid;
-      grid-template-columns: 54px minmax(0, 1fr) 54px;
+      grid-template-columns: var(--arrow-width) minmax(0, 1fr) var(--arrow-width);
       align-items: center;
       gap: clamp(8px, 2vw, 24px);
     }
@@ -76,7 +80,7 @@
       box-shadow: none;
     }
 
-    /* The queen's portrait */
+    /* QUEEN'S PORTRAIT */
 
     .image-frame #galleryImage {
       position: absolute;
@@ -90,7 +94,7 @@
       z-index: 1;
     }
 
-    /* Ornate Victorian frame overlay */
+    /* ORNATE VICTORIAN FRAME */
 
     .frame-overlay {
       position: absolute;
@@ -155,20 +159,28 @@
       display: none;
     }
 
-    /* NAVIGATION */
+    /* CUSTOM GOLD ARROWS */
 
     .nav-button {
-      width: 50px;
-      height: 64px;
+      width: 100%;
+      min-width: 0;
+      height: auto;
+      aspect-ratio: 4 / 1;
       display: grid;
       place-items: center;
       padding: 0;
-      color: white;
       background: transparent;
       border: 0;
       cursor: pointer;
       border-radius: 8px;
       transition: background .18s ease, opacity .18s ease;
+    }
+
+    .nav-button img {
+      display: block;
+      width: 100%;
+      height: auto;
+      object-fit: contain;
     }
 
     .nav-button:hover,
@@ -181,11 +193,6 @@
     .nav-button:disabled {
       opacity: .28;
       cursor: default;
-    }
-
-    .nav-button svg {
-      width: 34px;
-      height: 34px;
     }
 
     /* IMAGE COUNTER */
@@ -228,6 +235,11 @@
     /* MOBILE */
 
     @media (max-width: 560px) {
+
+      :root {
+        --arrow-width: clamp(34px, 10vw, 50px);
+      }
+
       body {
         padding: 18px 12px 36px;
       }
@@ -237,18 +249,12 @@
       }
 
       .gallery {
-        grid-template-columns: 34px minmax(0, 1fr) 34px;
+        grid-template-columns: var(--arrow-width) minmax(0, 1fr) var(--arrow-width);
         gap: 5px;
       }
 
       .nav-button {
-        width: 34px;
-        height: 54px;
-      }
-
-      .nav-button svg {
-        width: 27px;
-        height: 27px;
+        width: 100%;
       }
 
       figcaption {
@@ -300,40 +306,29 @@
 
       <div class="gallery" id="galleryView" hidden>
 
+        <!-- LEFT ARROW -->
         <button
           class="nav-button"
           id="previous"
           type="button"
           aria-label="Previous image"
         >
-          <svg
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="1.8"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            aria-hidden="true"
-          >
-            <path d="m15 18-6-6 6-6"/>
-          </svg>
+          <img src="images/ArrowL.png" alt="">
         </button>
 
+        <!-- ARTWORK -->
         <figure class="artwork">
 
           <div class="image-frame">
 
-            <!-- Queen's portrait -->
             <img id="galleryImage" src="" alt="">
 
-            <!-- Ornate Victorian frame -->
             <img
               class="frame-overlay"
               src="images/ornate-frame.png"
               alt=""
             >
 
-            <!-- Name on the brass plaque -->
             <div class="name-plaque">
               <h1 class="artwork-title" id="galleryTitle"></h1>
             </div>
@@ -349,23 +344,14 @@
 
         </figure>
 
+        <!-- RIGHT ARROW -->
         <button
           class="nav-button"
           id="next"
           type="button"
           aria-label="Next image"
         >
-          <svg
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="1.8"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            aria-hidden="true"
-          >
-            <path d="m9 18 6-6-6-6"/>
-          </svg>
+          <img src="images/ArrowR.png" alt="">
         </button>
 
       </div>
