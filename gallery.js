@@ -202,6 +202,10 @@ const galleryItems = [
     image: "images/Matinee.png",
     title: "Matinee"
   },
+    {
+    image: "images/BiondasGusting.png",
+    title: "Biondas Gusting"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
