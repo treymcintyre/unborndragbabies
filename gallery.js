@@ -206,6 +206,14 @@ const galleryItems = [
     image: "images/BiondasGusting.png",
     title: "Biondas Gusting"
   },
+     {
+    image: "images/PumpkinPuree.png",
+    title: "Pumpkin Puree"
+  },
+     {
+    image: "images/ArabicaBeans.png",
+    title: "Arabica Beans"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
