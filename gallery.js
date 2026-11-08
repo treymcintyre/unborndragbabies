@@ -199,7 +199,7 @@ const galleryItems = [
     title: "Pinkeye"
   },
     {
-    image: "images/Matinee.png",
+    image: "images/Matinee.gif",
     title: "Matinee"
   },
     {
@@ -219,7 +219,7 @@ const galleryItems = [
     title: "Nicolette Mipeoplego"
   },
    {
-    image: "images/PhoebeSNewshour.png",
+    image: "images/PhoebeSNewshour.gif",
     title: "Phoebe S. Newshour"
   },
    {
@@ -245,6 +245,14 @@ const galleryItems = [
      {
     image: "images/DaraLicht.gif",
     title: "Dara Licht"
+  },
+   {
+    image: "images/AmyMiMi.gif",
+    title: "Amy Mi Mi"
+  },
+   {
+    image: "images/VenitaDrink.gif",
+    title: "Venita Drink"
   },
 ];
 
