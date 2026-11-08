@@ -222,6 +222,18 @@ const galleryItems = [
     image: "images/PhoebeSNewshour.png",
     title: "Phoebe S. Newshour"
   },
+   {
+    image: "images/Protein.png",
+    title: "Protein"
+  },
+   {
+    image: "images/LouPuss.png",
+    title: "Lou Puss"
+  },
+   {
+    image: "images/Mild.png",
+    title: "Mild"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
