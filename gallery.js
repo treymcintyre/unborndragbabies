@@ -214,6 +214,10 @@ const galleryItems = [
     image: "images/ArabicaBeans.png",
     title: "Arabica Beans"
   },
+  {
+    image: "images/NicoletteMipeoplego.png",
+    title: "Nicolette Mipeoplego"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
