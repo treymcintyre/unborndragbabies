@@ -39,15 +39,15 @@ const galleryItems = [
     title: "She Hearse"
   },
   {
-    image: "images/ShixaGiggles.png",
+    image: "images/ShixaGiggles.gif",
     title: "Shixa Giggles"
   },
   {
-    image: "images/DeloresAmericano.png",
+    image: "images/DeloresAmericano.gif",
     title: "Delores Americano"
   },
   {
-    image: "images/deetainedorfriedagough.png",
+    image: "images/DeeTainedOrFriedaGough.gif",
     title: "Dee Tained or Frieda Gough"
   },
   {
