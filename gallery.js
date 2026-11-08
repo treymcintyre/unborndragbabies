@@ -170,6 +170,10 @@ const galleryItems = [
     image: "images/HerdaBlame.png",
     title: "Herda Blame"
   },
+   {
+    image: "images/PerryMenopause.png",
+    title: "Perry Menopause"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
