@@ -243,8 +243,8 @@ const galleryItems = [
     title: "Taryn Achilles"
   },
      {
-    image: "images/Mild.gif",
-    title: "Mild"
+    image: "images/DaraLicht.gif",
+    title: "Dara Licht"
   },
 ];
 
