@@ -234,6 +234,18 @@ const galleryItems = [
     image: "images/Mild.png",
     title: "Mild"
   },
+     {
+    image: "images/HelenaHandbasket.gif",
+    title: "Helena Handbasket"
+  },
+     {
+    image: "images/TarynAchilles.gif",
+    title: "Taryn Achilles"
+  },
+     {
+    image: "images/Mild.gif",
+    title: "Mild"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
