@@ -15,7 +15,7 @@ const galleryItems = [
     title: "Hartigay"
   },
    {
-    image: "images/SharonGoodtimes.png",
+    image: "images/SharonGoodtimes.gif",
     title: "Sharon Goodtimes"
   },
   {
@@ -23,15 +23,15 @@ const galleryItems = [
     title: "Pistachio Nutmeats"
   },
     {
-    image: "images/ZizisaJoke.png",
+    image: "images/ZizisaJoke.gif",
     title: "Zizisa Joke"
   },
   {
-    image: "images/DeborahLive.png",
+    image: "images/DeborahLive.gif",
     title: "Déborah Live"
   },
   {
-    image: "images/MissMarshaLarts.png",
+    image: "images/MissMarshaLarts.gif",
     title: "Miss Marsha Larts"
   },
   {
@@ -63,7 +63,7 @@ const galleryItems = [
     title: "Luke Warmwater"
   },
    {
-    image: "images/HeidiSalami.png",
+    image: "images/HeidiSalami.gif",
     title: "Heidi Salami"
   },
   {
@@ -71,11 +71,11 @@ const galleryItems = [
     title: "Clatsy Pine"
   },
   {
-    image: "images/DixieNormus.png",
+    image: "images/DixieNormus.gif",
     title: "Dixie Normus"
   },
   {
-    image: "images/AriEsbyIsiti.png",
+    image: "images/AriEsbyIsiti.gif",
     title: "Ari Esby Isiti"
   },
   {
@@ -211,7 +211,7 @@ const galleryItems = [
     title: "Pumpkin Puree"
   },
      {
-    image: "images/ArabicaBeans.png",
+    image: "images/ArabicaBeans.gif",
     title: "Arabica Beans"
   },
   {
