@@ -254,6 +254,10 @@ const galleryItems = [
     image: "images/VenitaDrink.gif",
     title: "Venita Drink"
   },
+  {
+    image: "images/WandaAimless.gif",
+    title: "Wanda Aimless"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
