@@ -274,6 +274,10 @@ const galleryItems = [
     image: "images/RhodaNowhere.gif",
     title: "Rhoda Nowhere"
   },
+   {
+    image: "images/AnimalCrossy.gif",
+    title: "Animal Crossy"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
