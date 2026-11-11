@@ -258,6 +258,10 @@ const galleryItems = [
     image: "images/WandaAimless.gif",
     title: "Wanda Aimless"
   },
+  {
+    image: "images/GuenevereTotheleft.gif",
+    title: "Guenevere Totheleft"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
