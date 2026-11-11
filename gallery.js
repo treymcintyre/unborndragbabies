@@ -262,6 +262,18 @@ const galleryItems = [
     image: "images/GuenevereTotheleft.gif",
     title: "Guenevere Totheleft"
   },
+   {
+    image: "images/BettyDidder.gif",
+    title: "Betty Didder"
+  },
+   {
+    image: "images/SherryPairings.gif",
+    title: "Sherry Pairings"
+  },
+   {
+    image: "images/RhodaNowhere.gif",
+    title: "Rhoda Nowhere"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
