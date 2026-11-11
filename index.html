@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -107,20 +108,20 @@
       pointer-events: none;
     }
 
-    /* NAMEPLATE */
+    /* LARGER GOLD NAMEPLATE */
 
     .name-plaque {
       position: absolute;
       z-index: 3;
-      bottom: 10.1%;
+      bottom: 9.7%;
       left: 50%;
       transform: translateX(-50%);
-      width: 30%;
-      height: 5%;
+      width: 42%;
+      height: 6%;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 2px;
+      padding: 3px 5px;
       background: transparent;
       border: 0;
       box-shadow: none;
@@ -130,10 +131,10 @@
       margin: 0;
       color: #39230e;
       font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(7px, 1vw, 13px);
-      line-height: 1.1;
+      font-size: clamp(9px, 1.5vw, 18px);
+      line-height: 1.05;
       font-weight: bold;
-      letter-spacing: .035em;
+      letter-spacing: .025em;
       text-align: center;
       text-transform: uppercase;
     }
@@ -206,13 +207,13 @@
       letter-spacing: .12em;
     }
 
-    /* PLANNED PARENTHOOD DONATION BANNER */
+    /* COMPACT PLANNED PARENTHOOD DONATION BANNER */
 
     .donation-banner {
       position: relative;
       width: 100%;
-      margin: 58px auto 0;
-      padding: clamp(26px, 5vw, 42px) clamp(20px, 5vw, 48px);
+      margin: 36px auto 0;
+      padding: clamp(18px, 3vw, 27px) clamp(20px, 4vw, 38px);
       overflow: hidden;
       text-align: center;
       color: #fff;
@@ -231,25 +232,25 @@
       top: 50%;
       transform: translateY(-50%);
       color: var(--gold);
-      font-size: clamp(22px, 4vw, 34px);
+      font-size: clamp(18px, 3vw, 26px);
       opacity: .85;
     }
 
     .donation-banner::before {
-      left: clamp(12px, 2.5vw, 24px);
+      left: clamp(10px, 2vw, 20px);
     }
 
     .donation-banner::after {
-      right: clamp(12px, 2.5vw, 24px);
+      right: clamp(10px, 2vw, 20px);
     }
 
     .donation-kicker {
-      margin: 0 0 10px;
+      margin: 0 0 6px;
       color: var(--gold-light);
       font-family: Georgia, "Times New Roman", serif;
-      font-size: 12px;
+      font-size: 10px;
       font-weight: bold;
-      letter-spacing: .2em;
+      letter-spacing: .18em;
       text-transform: uppercase;
     }
 
@@ -257,27 +258,27 @@
       margin: 0;
       color: #fff;
       font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(25px, 4.5vw, 38px);
+      font-size: clamp(21px, 3.5vw, 30px);
       line-height: 1.15;
       font-weight: normal;
     }
 
     .donation-copy {
-      max-width: 610px;
-      margin: 15px auto 22px;
+      max-width: 570px;
+      margin: 9px auto 14px;
       color: var(--muted);
-      font-size: 15px;
-      line-height: 1.65;
+      font-size: 13px;
+      line-height: 1.5;
     }
 
     .donation-button {
       display: inline-block;
-      padding: 13px 25px;
+      padding: 10px 20px;
       color: var(--purple-deep);
       background: var(--gold);
       border: 1px solid var(--gold-light);
       border-radius: 3px;
-      font-size: 13px;
+      font-size: 11px;
       font-weight: bold;
       letter-spacing: .09em;
       line-height: 1.2;
@@ -298,10 +299,10 @@
     }
 
     .donation-note {
-      margin: 14px 0 0;
+      margin: 9px 0 0;
       color: #cbb8d9;
-      font-size: 11px;
-      line-height: 1.5;
+      font-size: 10px;
+      line-height: 1.4;
     }
 
     /* EMPTY GALLERY */
@@ -360,13 +361,18 @@
         padding-top: 12px;
       }
 
+      .name-plaque {
+        width: 42%;
+        height: 6%;
+      }
+
       .name-plaque .artwork-title {
-        font-size: clamp(6px, 1.8vw, 11px);
+        font-size: clamp(8px, 2.5vw, 14px);
       }
 
       .donation-banner {
-        margin-top: 42px;
-        padding: 28px 24px;
+        margin-top: 28px;
+        padding: 20px 24px;
       }
 
       .donation-banner::before {
@@ -378,12 +384,12 @@
       }
 
       .donation-kicker {
-        font-size: 10px;
-        letter-spacing: .14em;
+        font-size: 9px;
+        letter-spacing: .13em;
       }
 
       .donation-copy {
-        font-size: 14px;
+        font-size: 12px;
       }
     }
 
