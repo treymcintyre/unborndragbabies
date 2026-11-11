@@ -99,7 +99,7 @@ const galleryItems = [
     title: "Sebatia Cyst"
   },
   {
-    image: "images/EdenTacos.png",
+    image: "images/EdenTacos.gif",
     title: "Eden Tacos"
   },
   {
