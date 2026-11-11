@@ -278,6 +278,10 @@ const galleryItems = [
     image: "images/AnimalCrossy.gif",
     title: "Animal Crossy"
   },
+    {
+    image: "images/NietaBJ.gif",
+    title: "Nieta B.J."
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
