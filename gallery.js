@@ -282,6 +282,14 @@ const galleryItems = [
     image: "images/NietaBJ.gif",
     title: "Nieta B.J."
   },
+    {
+    image: "images/PatchyFog.gif",
+    title: "Patchy Fog"
+  },
+   {
+    image: "images/MirandaRytes.gif",
+    title: "Miranda Rytes"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
