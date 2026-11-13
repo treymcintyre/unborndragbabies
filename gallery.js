@@ -290,6 +290,134 @@ const galleryItems = [
     image: "images/MirandaRytes.gif",
     title: "Miranda Rytes"
   },
+    {
+    image: "images/AnnThology.gif",
+    title: "Ann Thology"
+  },
+    {
+    image: "images/BrightonSunny.gif",
+    title: "Brighton Sunny"
+  },
+    {
+    image: "images/VyCarious.gif",
+    title: "Vy Carious"
+  },
+    {
+    image: "images/MabelSyrup.gif",
+    title: "Mabel Syrup"
+  },
+    {
+    image: "images/BernadetteWitch.gif",
+    title: "Bernadette Witch"
+  },
+    {
+    image: "images/VirginiaCreeper.gif",
+    title: "Virginia Creeper"
+  },
+    {
+    image: "images/DonnaVanouera.gif",
+    title: "Donna Vanouera"
+  },
+    {
+    image: "images/EllaMenopy.gif",
+    title: "Ella Menopy"
+  },
+    {
+    image: "images/DonnaThedead.gif",
+    title: "Donna Thedead"
+  },
+    {
+    image: "images/RuthLess.gif",
+    title: "Ruth Less"
+  },
+    {
+    image: "images/AdaBea.gif",
+    title: "Ada Bea"
+  },
+    {
+    image: "images/Gristle.gif",
+    title: "Gristle"
+  },
+    {
+    image: "images/GingerVitis.gif",
+    title: "Ginger Vitis"
+  },
+    {
+    image: "images/MargeARein.gif",
+    title: "Marge A. Rein"
+  },
+    {
+    image: "images/OlgaGevalt.gif",
+    title: "Olga Gevalt"
+  },
+    {
+    image: "images/IleneLeft.gif",
+    title: "Ilene Left"
+  },
+    {
+    image: "images/BieranWhyne.gif",
+    title: "Bieran Whyne"
+  },
+    {
+    image: "images/RheaLization.gif",
+    title: "Rhea Lization"
+  },
+    {
+    image: "images/SelyaAbillagoods.gif",
+    title: "Selya Abillagoods"
+  },
+    {
+    image: "images/MenorahJones.gif",
+    title: "Menorah Jones"
+  },
+    {
+    image: "images/ChronicPneumonia.gif",
+    title: "Chronic Pneumonia"
+  },
+    {
+    image: "images/CelesteIsmore.gif",
+    title: "Celeste Ismore"
+  },
+    {
+    image: "images/AuntieVenom.gif",
+    title: "Auntie Venom"
+  },
+    {
+    image: "images/NorahPenefrin.gif",
+    title: "Norah Penefrin"
+  },
+    {
+    image: "images/JennySide.gif",
+    title: "Jenny Side"
+  },
+    {
+    image: "images/KeelyOver.gif",
+    title: "Keely Over"
+  },
+    {
+    image: "images/MoDeLawn.gif",
+    title: "Mo DeLawn"
+  },
+    {
+    image: "images/PhyllisInn.gif",
+    title: "Phyllis Inn"
+  },
+    {
+    image: "images/AnnabelleLechter.gif",
+    title: "Annabelle Lechter"
+  },
+    {
+    image: "images/CathyTerr.gif",
+    title: "Cathy Terr"
+  },
+    {
+    image: "images/DawnBinary.gif",
+    title: "Dawn Binary"
+  },
+    {
+    image: "images/SueVlaki.gif",
+    title: "Sue Vlaki"
+  },
 ];
 
 const emptyState = document.getElementById("emptyState");
