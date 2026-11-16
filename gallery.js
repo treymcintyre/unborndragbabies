@@ -7,7 +7,7 @@ const galleryItems = [
     title: "Tara Newone"
   },
   {
-    image: "images/SharonVonBathroom.png",
+    image: "images/SharonVonBathroom.gif",
     title: "Sharon Von Bathroom"
   },
   {
@@ -51,7 +51,7 @@ const galleryItems = [
     title: "Dee Tained or Frieda Gough"
   },
   {
-    image: "images/CherryTBall.png",
+    image: "images/CherryTBall.gif",
     title: "Cherry T. Ball"
   },
   {
@@ -59,7 +59,7 @@ const galleryItems = [
     title: "Pepper Coulis"
   },
    {
-    image: "images/LukeWarmwater.png",
+    image: "images/LukeWarmwater.gif",
     title: "Luke Warmwater"
   },
    {
@@ -67,7 +67,7 @@ const galleryItems = [
     title: "Heidi Salami"
   },
   {
-    image: "images/ClatsyPine.png",
+    image: "images/ClatsyPine.gif",
     title: "Clatsy Pine"
   },
   {
@@ -79,7 +79,7 @@ const galleryItems = [
     title: "Ari Esby Isiti"
   },
   {
-    image: "images/CarmenEnemy.png",
+    image: "images/CarmenEnemy.gif",
     title: "Carmen Enemy"
   },
   {
@@ -91,11 +91,11 @@ const galleryItems = [
     title: "Dafarmerinda Dell"
   },
   {
-    image: "images/ElsieYassoon.png",
+    image: "images/ElsieYassoon.gif",
     title: "Elsie Yassoon"
   },
   {
-    image: "images/SebatiaCyst.png",
+    image: "images/SebatiaCyst.gif",
     title: "Sebatia Cyst"
   },
   {
