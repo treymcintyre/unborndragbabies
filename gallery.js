@@ -115,7 +115,7 @@ const galleryItems = [
     title: "Sona Vabitch"
   },
   {
-    image: "images/BurritzaBlizzard.png",
+    image: "images/BurritzaBlizzard.gif",
     title: "Burritza Blizzard"
   },
   {
@@ -127,19 +127,19 @@ const galleryItems = [
     title: "Jezebel Bottoms"
   },
   {
-    image: "images/SarahSoda.png",
+    image: "images/SarahSoda.gif",
     title: "Sarah Soda"
   },
   {
-    image: "images/DameDoodieStench.png",
+    image: "images/DameDoodieStench.gif",
     title: "Dame Doodie Stench"
   },
   {
-    image: "images/Debris.png",
+    image: "images/Debris.gif",
     title: "Debris"
   },
   {
-    image: "images/CherMiscreen.png",
+    image: "images/CherMiscreen.gif",
     title: "Cher Miscreen"
   },
   {
@@ -147,11 +147,11 @@ const galleryItems = [
     title: "Dawn Powerwash"
   },
   {
-    image: "images/SashaGoodquestion.png",
+    image: "images/SashaGoodquestion.gif",
     title: "Sasha Goodquestion"
   },
   {
-    image: "images/MoLashes.png",
+    image: "images/MoLashes.gif",
     title: "Mo Lashes"
   },
   {
@@ -159,11 +159,11 @@ const galleryItems = [
     title: "Teuwetia Zone"
   },
   {
-    image: "images/ShirleyWoodhave.png",
+    image: "images/ShirleyWoodhave.gif",
     title: "Shirley Woodhave"
   },
   {
-    image: "images/RapunzelWiig.png",
+    image: "images/RapunzelWiig.gif",
     title: "Rapunzel Wiig"
   },
   {
@@ -175,27 +175,27 @@ const galleryItems = [
     title: "Perry Menopause"
   },
    {
-    image: "images/Daipy.png",
+    image: "images/Daipy.gif",
     title: "Daipy"
   },
    {
-    image: "images/Diabeatrice.png",
+    image: "images/Diabeatrice.gif",
     title: "Diabeatrice"
   },
    {
-    image: "images/RhondaMarathon.png",
+    image: "images/RhondaMarathon.gif",
     title: "Rhonda Marathon"
   },
     {
-    image: "images/CocoaMassachusetts.png",
+    image: "images/CocoaMassachusetts.gif",
     title: "Cocoa Massachusetts"
   },
     {
-    image: "images/DanaHalf.png",
+    image: "images/DanaHalf.gif",
     title: "Dana Half"
   },
     {
-    image: "images/Pinkeye.png",
+    image: "images/Pinkeye.gif",
     title: "Pinkeye"
   },
     {
@@ -207,7 +207,7 @@ const galleryItems = [
     title: "Biondas Gusting"
   },
      {
-    image: "images/PumpkinPuree.png",
+    image: "images/PumpkinPuree.gif",
     title: "Pumpkin Puree"
   },
      {
@@ -227,7 +227,7 @@ const galleryItems = [
     title: "Protein"
   },
    {
-    image: "images/LouPuss.png",
+    image: "images/LouPuss.gif",
     title: "Lou Puss"
   },
    {
