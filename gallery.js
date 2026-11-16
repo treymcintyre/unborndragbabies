@@ -87,7 +87,7 @@ const galleryItems = [
     title: "Zamina Evidence"
   },
   {
-    image: "images/DafarmerindaDell.png",
+    image: "images/DafarmerindaDell.gif",
     title: "Dafarmerinda Dell"
   },
   {
