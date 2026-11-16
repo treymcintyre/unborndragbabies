@@ -19,7 +19,7 @@ const galleryItems = [
     title: "Sharon Goodtimes"
   },
   {
-    image: "images/PistachioNutmeats.png",
+    image: "images/PistachioNutmeats.gif",
     title: "Pistachio Nutmeats"
   },
     {
