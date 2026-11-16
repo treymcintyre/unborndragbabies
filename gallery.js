@@ -3,7 +3,7 @@
 */
 const galleryItems = [
   {
-    image: "images/TaraNewone.png",
+    image: "images/TaraNewone.gif",
     title: "Tara Newone"
   },
   {
@@ -35,7 +35,7 @@ const galleryItems = [
     title: "Miss Marsha Larts"
   },
   {
-    image: "images/SheHearse.png",
+    image: "images/SheHearse.gif",
     title: "She Hearse"
   },
   {
@@ -417,6 +417,351 @@ const galleryItems = [
     {
     image: "images/SueVlaki.gif",
     title: "Sue Vlaki"
+  },
+    {
+    image: "images/AnnDroid.gif",
+    title: "Ann Droid"
+  },
+    {
+    image: "images/AnnetteFlix.gif",
+    title: "Annette Flix"
+  },
+    {
+    image: "images/BasuraSolamente.gif",
+    title: "Basura Solamente"
+  },
+    {
+    image: "images/BernieDuKey.gif",
+    title: "Bernie DuKey"
+  },
+    {
+    image: "images/BobVoyage.gif",
+    title: "Bob Voyage"
+  },
+    {
+    image: "images/CorpsieFarts.gif",
+    title: "Corpsie Farts"
+  },
+    {
+    image: "images/DisneyParkes.gif",
+    title: "Disney Parkes"
+  },
+    {
+    image: "images/DustyPeoples.gif",
+    title: "Dusty Peoples"
+  },
+    {
+    image: "images/HughJacksident.gif",
+    title: "Hugh Jacksident"
+  },
+    {
+    image: "images/IndieDarling.gif",
+    title: "Indie Darling"
+  },
+   {
+    image: "images/JoaquinPneumonia.gif",
+    title: "Joaquin Pneumonia"
+  },
+   {
+    image: "images/KerryOakey.gif",
+    title: "Kerry Oakey"
+  },
+   {
+    image: "images/LindsayLoafpan.gif",
+    title: "Lindsay Loafpan"
+  },
+   {
+    image: "images/LynnFomo.gif",
+    title: "Lynn Fomo"
+  },
+   {
+    image: "images/MaeLGazey.gif",
+    title: "Mae L. Gazey"
+  },
+   {
+    image: "images/MiaMoore.gif",
+    title: "Mia Moore"
+  },
+   {
+    image: "images/PatinaGambrel.gif",
+    title: "Patina Gambrel"
+  },
+   {
+    image: "images/RockyRhodes.gif",
+    title: "Rocky Rhodes"
+  },
+   {
+    image: "images/RomanNose.gif",
+    title: "Roman Nose"
+  },
+   {
+    image: "images/TulitaPepsi.gif",
+    title: "Tulita Pepsi"
+  },
+    {
+    image: "images/TweenLaQueefa.gif",
+    title: "Tween LaQueefa"
+  },
+    {
+    image: "images/VenisonJerqui.gif",
+    title: "Venison Jerqui"
+  },
+    {
+    image: "images/AliciaTride.gif",
+    title: "Alicia Tride"
+  },
+    {
+    image: "images/AnnArbor.gif",
+    title: "Ann Arbor"
+  },
+    {
+    image: "images/AnnDuMonde.gif",
+    title: "Ann DuMonde"
+  },
+    {
+    image: "images/AnneChauvie.gif",
+    title: "Anne Chauvie"
+  },
+    {
+    image: "images/AnneEstysia.gif",
+    title: "Anne Estysia"
+  },
+    {
+    image: "images/AnneTartika.gif",
+    title: "Anne Tartika"
+  },
+    {
+    image: "images/AnneURism.gif",
+    title: "Anne U. Rism"
+  },
+    {
+    image: "images/AuntieMissyCoach.gif",
+    title: "Auntie Missy Coach"
+  },
+   },
+    {
+    image: "images/BaudiaChrist.gif",
+    title: "Baudia Christ"
+  },
+   },
+    {
+    image: "images/BelleChin.gif",
+    title: "Belle Chin"
+  },
+   },
+    {
+    image: "images/BethnalGreen.gif",
+    title: "Bethnal Green"
+  },
+   },
+    {
+    image: "images/BonnieVivant.gif",
+    title: "Bonnie Vivant"
+  },
+   },
+    {
+    image: "images/CelieAck.gif",
+    title: "Celie Ack"
+  },
+   },
+    {
+    image: "images/CheriOnassisses.gif",
+    title: "Cheri Onassisses"
+  },
+   },
+    {
+    image: "images/CoginaMachine.gif",
+    title: "Cogina Machine"
+  },
+   },
+    {
+    image: "images/CrotchMahogany.gif",
+    title: "Crotch Mahogany"
+  },
+   },
+    {
+    image: "images/CrystalGlassware.gif",
+    title: "Crystal Glassware"
+  },
+   },
+    {
+    image: "images/DelilahKadogo.gif",
+    title: "Delilah Kadogo"
+  },
+   },
+    {
+    image: "images/DustySpots.gif",
+    title: "Dusty Spots"
+  },
+   },
+    {
+    image: "images/DustyWoodwalls.gif",
+    title: "Dusty Woodwalls"
+  },
+   },
+    {
+    image: "images/EppiePenn.gif",
+    title: "Eppie Penn"
+  },
+   },
+    {
+    image: "images/FarrahMilitary.gif",
+    title: "Farrah Military"
+  },
+   },
+    {
+    image: "images/FowanaVabetta.gif",
+    title: "Fowana Vabetta Idea"
+  },
+   },
+    {
+    image: "images/FriedaNipple.gif",
+    title: "Frieda Nipple"
+  },
+   },
+    {
+    image: "images/GingerThickness.gif",
+    title: "Ginger Thickness"
+  },
+   },
+    {
+    image: "images/HeronYorchest.gif",
+    title: "Heron Yorchest"
+  },
+   },
+    {
+    image: "images/ImaPhyllThibish.gif",
+    title: "Ima Phyll Thibish"
+  },
+   },
+    {
+    image: "images/JudyIzzem.gif",
+    title: "Judy Izzem"
+  },
+   },
+    {
+    image: "images/LabiaWorthalik.gif",
+    title: "Labia Worthalik"
+  },
+   },
+    {
+    image: "images/LeeKing.gif",
+    title: "Lee King"
+  },
+   },
+    {
+    image: "images/LesMizThang.gif",
+    title: "Les Miz Thang"
+  },
+   },
+    {
+    image: "images/MaidaVale.gif",
+    title: "Maida Vale"
+  },
+   },
+    {
+    image: "images/NecroNancy.gif",
+    title: "Necro Nancy"
+  },
+   },
+    {
+    image: "images/NellAnneBoyd.gif",
+    title: "Nell Anne Boyd"
+  },
+   },
+    {
+    image: "images/PalaceIntrigue.gif",
+    title: "Palace Intrigue"
+  },
+   },
+    {
+    image: "images/PamTawn.gif",
+    title: "Pam Tawn"
+  },
+   },
+    {
+    image: "images/PaulaGees.gif",
+    title: "Paula Gees"
+  },
+   },
+    {
+    image: "images/PollyYurithane.gif",
+    title: "Polly Yurithane"
+  },
+   },
+    {
+    image: "images/RainbowCheyenneDurango.gif",
+    title: "Rainbow Cheyenne Durango"
+  },
+   },
+    {
+    image: "images/RicolaHalls.gif",
+    title: "Ricola Halls"
+  },
+   },
+    {
+    image: "images/RitaManweep.gif",
+    title: "Rita Manweep"
+  },
+   },
+    {
+    image: "images/SallyMander.gif",
+    title: "Sally Mander"
+  },
+   },
+    {
+    image: "images/SaulGoode.gif",
+    title: "Saul Goode"
+  },
+   },
+    {
+    image: "images/SemiPalamino.gif",
+    title: "Semi Palamino"
+  },
+   },
+    {
+    image: "images/ShadyBench.gif",
+    title: "Shady Bench"
+  },
+   },
+    {
+    image: "images/SueChef.gif",
+    title: "Sue Chef"
+  },
+   },
+    {
+    image: "images/SueFlay.gif",
+    title: "Sue Flay"
+  },
+   },
+    {
+    image: "images/TaraFirma.gif",
+    title: "Tara Firma"
+  },
+   },
+    {
+    image: "images/TaraToma.gif",
+    title: "Tara Toma"
+  },
+   },
+    {
+    image: "images/TootieLeft.gif",
+    title: "Tootie Left"
+  },
+   },
+    {
+    image: "images/ToyotaSienna.gif",
+    title: "Toyota Sienna"
+  },
+   },
+    {
+    image: "images/TrudyForm.gif",
+    title: "Trudy Form"
+  },
+   },
+    {
+    image: "images/WenzaGoodtime.gif",
+    title: "Wenza Goodtime"
   },
 ];
 
