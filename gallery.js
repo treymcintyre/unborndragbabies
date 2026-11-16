@@ -143,7 +143,7 @@ const galleryItems = [
     title: "Cher Miscreen"
   },
   {
-    image: "images/DawnPowerwash.png",
+    image: "images/DawnPowerwash.gif",
     title: "Dawn Powerwash"
   },
   {
