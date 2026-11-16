@@ -642,12 +642,18 @@ const galleryItems = [
     image: "images/LabiaWorthalik.gif",
     title: "Labia Worthalik"
   },
-
+   {
+    image: "images/TaraFirma.gif",
+    title: "Tara Firma"
+  },
     {
     image: "images/LeeKing.gif",
     title: "Lee King"
   },
-
+  {
+    image: "images/SueChef.gif",
+    title: "Sue Chef"
+  },
     {
     image: "images/LesMizThang.gif",
     title: "Les Miz Thang"
@@ -722,20 +728,11 @@ const galleryItems = [
     image: "images/ShadyBench.gif",
     title: "Shady Bench"
   },
-    {
-    image: "images/SueChef.gif",
-    title: "Sue Chef"
-  },
+  
     {
     image: "images/SueFlay.gif",
     title: "Sue Flay"
   },
-
-    {
-    image: "images/TaraFirma.gif",
-    title: "Tara Firma"
-  },
-
     {
     image: "images/TaraToma.gif",
     title: "Tara Toma"
