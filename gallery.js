@@ -807,6 +807,10 @@ const galleryItems = [
     image: "images/AngieOEdema.gif",
     title: "Angie O' Edema"
   },
+   {
+    image: "images/FreemaBalls.gif",
+    title: "Freema Balls"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
