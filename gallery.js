@@ -3,6 +3,26 @@
 */
 const galleryItems = [
   {
+    image: "images/DinahDash.gif",
+    title: "Dinah Dash"
+  }, 
+  {
+    image: "images/EstherMated.gif",
+    title: "Esther Mated"
+  },
+    {
+    image: "images/HollyMoley.gif",
+    title: "Holly Moley"
+  }, 
+  {
+    image: "images/CoryFay.gif",
+    title: "Cory Fay"
+  },   
+  {
+    image: "images/Garyerre.gif",
+    title: "Garyerre"
+  },
+  {
     image: "images/TaraNewone.gif",
     title: "Tara Newone"
   },
@@ -129,6 +149,14 @@ const galleryItems = [
   {
     image: "images/SarahSoda.gif",
     title: "Sarah Soda"
+  },
+  {
+    image: "images/GeneralLeeSpeaking.gif",
+    title: "General Lee Speaking"
+  },
+  {
+    image: "images/NadjaHarperIndegestion.gif",
+    title: "Nadja Harper Indegestion"
   },
   {
     image: "images/DameDoodieStench.gif",
@@ -698,12 +726,26 @@ const galleryItems = [
     image: "images/RainbowCheyenneDurango.gif",
     title: "Rainbow Cheyenne Durango"
   },
-
     {
     image: "images/RicolaHalls.gif",
     title: "Ricola Halls"
   },
-
+ {
+    image: "images/SuziePhone.gif",
+    title: "Suzie Phone"
+  },
+   {
+    image: "images/KayLindo.gif",
+    title: "Kay Lindo"
+  },
+   {
+    image: "images/AnnieNimity.gif",
+    title: "Annie Nimity"
+  },
+   {
+    image: "images/AnneALogue.gif",
+    title: "Anne A. Logue"
+  },
     {
     image: "images/RitaManweep.gif",
     title: "Rita Manweep"
@@ -756,6 +798,14 @@ const galleryItems = [
     {
     image: "images/WenzaGoodtime.gif",
     title: "Wenza Goodtime"
+  },
+   {
+    image: "images/JuanLumpSum.gif",
+    title: "Juan Lumpsum"
+  },
+   {
+    image: "images/AngieOEdema.gif",
+    title: "Angie O' Edema"
   },
 ];
 
