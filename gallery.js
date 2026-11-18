@@ -811,6 +811,86 @@ const galleryItems = [
     image: "images/FreemaBalls.gif",
     title: "Freema Balls"
   }, 
+   {
+    image: "images/AdyHechedy.gif",
+    title: "Ady Hechedy"
+  }, 
+   {
+    image: "images/JoaquinNMemphis.gif",
+    title: "Joaquin N. Memphis"
+  }, 
+   {
+    image: "images/PollyAnneMurray.gif",
+    title: "Polly Anne Murray"
+  }, 
+   {
+    image: "images/JosieDoe.gif",
+    title: "Josie Doe"
+  }, 
+   {
+    image: "images/GeneYass.gif",
+    title: "Gene Yass"
+  }, 
+    {
+    image: "images/DianneGunnalea.gif",
+    title: "Dianne Gunnalea"
+  }, 
+    {
+    image: "images/CharlotteTan.gif",
+    title: "Charlotte Tan"
+  }, 
+    {
+    image: "images/CamsiComsa.gif",
+    title: "Camsi Comsa"
+  }, 
+    {
+    image: "images/GretaWay.gif",
+    title: "Greta Way"
+  }, 
+    {
+    image: "images/MingDianneNasty.gif",
+    title: "Ming Dianne Nasty"
+  }, 
+    {
+    image: "images/TheyThelma.gif",
+    title: "They Thelma"
+  }, 
+    {
+    image: "images/MingDianneNasty.gif",
+    title: "Ming Dianne Nasty"
+  }, 
+    {
+    image: "images/McKlenziePalette.gif",
+    title: "McKlenzie Palette"
+  }, 
+    {
+    image: "images/MingDianneNasty.gif",
+    title: "Ming Dianne Nasty"
+  }, 
+    {
+    image: "images/Esseuvie.gif",
+    title: "Esseuvie"
+  }, 
+    {
+    image: "images/EvanFlow.gif",
+    title: "Evan Flow"
+  }, 
+    {
+    image: "images/CaseyBeer.gif",
+    title: "Casey Beer"
+  }, 
+    {
+    image: "images/JoaquinOnwater.gif",
+    title: "W'Queen Onwater"
+  }, 
+    {
+    image: "images/MingDianneNasty.gif",
+    title: "Ming Dianne Nasty"
+  }, 
+    {
+    image: "images/DickVane.gif",
+    title: "Dick Vane"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
