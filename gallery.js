@@ -939,7 +939,7 @@ const galleryItems = [
     title: "Greta Way"
   }, 
     {
-    image: "images/DianneNasty.gif",
+    image: "images/MingDianneNasty.gif",
     title: "Ming Dianne Nasty"
   }, 
     {
