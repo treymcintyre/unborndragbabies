@@ -815,7 +815,7 @@ const galleryItems = [
 
     {
     image: "images/RainbowCheyenneDurango.gif",
-    title: "Rainbow Cheyenne Durango"
+    title: "Rainbow CheyenneDurango"
   },
     {
     image: "images/RicolaHalls.gif",
