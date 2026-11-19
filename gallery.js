@@ -955,10 +955,6 @@ const galleryItems = [
     title: "McKlenzie Palette"
   }, 
     {
-    image: "images/TheExpressiveAphasia.gif",
-    title: 'The "Expressive" Aphasia'
-  }, 
-    {
     image: "images/Esseuvie.gif",
     title: "Esseuvie"
   }, 
