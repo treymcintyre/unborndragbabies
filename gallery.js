@@ -495,6 +495,46 @@ const galleryItems = [
     title: "Kerry Oakey"
   },
    {
+    image: "images/HelenBack.gif",
+    title: "Helen Back"
+  },
+   {
+    image: "images/JimmyChonga.gif",
+    title: "Jimmy Chonga"
+  },
+   {
+    image: "images/MelanieTonan.gif",
+    title: "Melanie Tonan"
+  },
+   {
+    image: "images/RachaelTension.gif",
+    title: "Rachael Tension"
+  },
+   {
+    image: "images/ScarletLeePursuits.gif",
+    title: "Scarlet Lee Pursuits"
+  },
+   {
+    image: "images/SuePosta.gif",
+    title: "Sue Posta"
+  },
+   {
+    image: "images/StanBuymi.gif",
+    title: "Stan Baymi"
+  },
+   {
+    image: "images/IzzyReal.gif",
+    title: "Izzy Real"
+  },
+   {
+    image: "images/AnneTerior.gif",
+    title: "Anne Terior"
+  },
+   {
+    image: "images/Dewey Glow.gif",
+    title: "DeweyGlow"
+  },
+   {
     image: "images/LindsayLoafpan.gif",
     title: "Lindsay Loafpan"
   },
@@ -513,6 +553,26 @@ const galleryItems = [
    {
     image: "images/PatinaGambrel.gif",
     title: "Patina Gambrel"
+  },
+    {
+    image: "images/SarahPatitiousLee.gif",
+    title: "Sarah Patitious Lee"
+  },
+    {
+    image: "images/PhillipPinoNoir.gif",
+    title: "Phillip Pino Noir"
+  },
+   {
+    image: "images/DickStacey.gif",
+    title: "Dick Stacey"
+  },
+   {
+    image: "images/DustyVelvet.gif",
+    title: "Dusty Velvet"
+  },
+   {
+    image: "images/LynnGuinni.gif",
+    title: "Lynn Guinni"
   },
    {
     image: "images/RockyRhodes.gif",
@@ -541,6 +601,26 @@ const galleryItems = [
     {
     image: "images/AnnArbor.gif",
     title: "Ann Arbor"
+  },
+   {
+    image: "images/JeremyBeverhung.gif",
+    title: "Jeremy Beverhung"
+  },
+   {
+    image: "images/JoaquinDead.gif",
+    title: "Joaquin Dead"
+  },
+   {
+    image: "images/DustyVelvet.gif",
+    title: "Dusty Velvet"
+  },
+   {
+    image: "images/JennaCyde.gif",
+    title: "Jenna Cyde"
+  },
+   {
+    image: "images/ManuelControl.gif",
+    title: "Manuel Control"
   },
     {
     image: "images/AnnDuMonde.gif",
@@ -650,7 +730,22 @@ const galleryItems = [
     image: "images/GingerThickness.gif",
     title: "Ginger Thickness"
   },
-
+  {
+    image: "images/GrenawithEnvy.gif",
+    title: "Grenawith Envy"
+  },  {
+    image: "images/AnnThai.gif",
+    title: "Ann Thai"
+  },  {
+    image: "images/HannahSanitisan.gif",
+    title: "Hannah Sanitisan"
+  },  {
+    image: "images/KynaHarsh.gif",
+    title: "Kyna Harsh"
+  },  {
+    image: "images/JoaquinOShame.gif",
+    title: "Joaquin O'Shame"
+  },
     {
     image: "images/HeronYorchest.gif",
     title: "Heron Yorchest"
@@ -856,16 +951,16 @@ const galleryItems = [
     title: "They Thelma"
   }, 
     {
-    image: "images/MingDianneNasty.gif",
-    title: "Ming Dianne Nasty"
+    image: "images/RosettaStone.gif",
+    title: "Rosetta Stone"
   }, 
     {
     image: "images/McKlenziePalette.gif",
     title: "McKlenzie Palette"
   }, 
     {
-    image: "images/MingDianneNasty.gif",
-    title: "Ming Dianne Nasty"
+    image: "images/TheExpressiveAphasia.gif",
+    title: "The "Expressive" Aphasia"
   }, 
     {
     image: "images/Esseuvie.gif",
@@ -890,6 +985,14 @@ const galleryItems = [
     {
     image: "images/DickVane.gif",
     title: "Dick Vane"
+  }, 
+   {
+    image: "images/MaryMagdalinament.gif",
+    title: "Mary Magdalinament"
+  }, 
+    {
+    image: "images/AnneVibilant.gif",
+    title: "Anne Vibilant"
   }, 
 ];
 
