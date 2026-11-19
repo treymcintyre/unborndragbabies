@@ -531,7 +531,7 @@ const galleryItems = [
     title: "Anne Terior"
   },
    {
-    image: "images/Dewey Glow.gif",
+    image: "images/DeweyGlow.gif",
     title: "DeweyGlow"
   },
    {
@@ -565,10 +565,6 @@ const galleryItems = [
    {
     image: "images/DickStacey.gif",
     title: "Dick Stacey"
-  },
-   {
-    image: "images/DustyVelvet.gif",
-    title: "Dusty Velvet"
   },
    {
     image: "images/LynnGuinni.gif",
@@ -960,7 +956,7 @@ const galleryItems = [
   }, 
     {
     image: "images/TheExpressiveAphasia.gif",
-    title: "The "Expressive" Aphasia"
+    title: 'The "Expressive" Aphasia'
   }, 
     {
     image: "images/Esseuvie.gif",
