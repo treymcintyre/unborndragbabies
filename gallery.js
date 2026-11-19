@@ -68,7 +68,7 @@ const galleryItems = [
   },
   {
     image: "images/DeeTainedOrFriedaGough.gif",
-    title: "Dee Tained or Frieda Gough"
+    title: "Dee Tained/Frieda Gough"
   },
   {
     image: "images/CherryTBall.gif",
