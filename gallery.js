@@ -606,6 +606,10 @@ const galleryItems = [
     image: "images/JoaquinDead.gif",
     title: "Joaquin Dead"
   },
+    {
+    image: "images/LucretiaFatso.gif",
+    title: "Lucretia Fatso"
+  },
    {
     image: "images/DustyVelvet.gif",
     title: "Dusty Velvet"
