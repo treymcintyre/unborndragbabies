@@ -990,6 +990,10 @@ const galleryItems = [
     image: "images/LauraVatraxion.gif",
     title: "Laura Vatraxion"
   }, 
+    {
+    image: "images/LittleMissCantbewrong.gif",
+    title: "Little Miss Cantbewrong"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
