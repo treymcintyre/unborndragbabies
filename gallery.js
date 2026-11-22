@@ -972,7 +972,7 @@ const galleryItems = [
   }, 
     {
     image: "images/JoaquinOnwater.gif",
-    title: "W'Queen Onwater"
+    title: "Waqueen Onwater"
   }, 
     {
     image: "images/DickVane.gif",
