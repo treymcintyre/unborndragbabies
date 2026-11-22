@@ -986,6 +986,10 @@ const galleryItems = [
     image: "images/AnneVibilant.gif",
     title: "Anne Vibilant"
   }, 
+    {
+    image: "images/LauraVatraxion.gif",
+    title: "Laura Vatraxion"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
