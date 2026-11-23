@@ -75,7 +75,7 @@ const galleryItems = [
     title: "Cherry T. Ball"
   },
   {
-    image: "images/PepperCoulis.png",
+    image: "images/PepperCoulis.gif",
     title: "Pepper Coulis"
   },
    {
