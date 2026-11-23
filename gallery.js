@@ -1011,6 +1011,28 @@ const nextButton = document.getElementById("next");
 
 let currentIndex = 0;
 
+function fitTitle() {
+  const plaque = titleElement.parentElement;
+  if (!plaque) return;
+
+  titleElement.style.fontSize = "";
+  titleElement.style.whiteSpace = "nowrap";
+
+  const available = plaque.clientWidth - 14;
+  let size = parseFloat(window.getComputedStyle(titleElement).fontSize);
+
+  while (titleElement.scrollWidth > available && size > 7) {
+    size -= 0.5;
+    titleElement.style.fontSize = size + "px";
+  }
+
+  if (titleElement.scrollWidth > available) {
+    titleElement.style.whiteSpace = "";
+  }
+}
+
+window.addEventListener("resize", fitTitle);
+
 function showImage() {
   if (!galleryItems.length) {
     emptyState.hidden = false;
@@ -1031,6 +1053,8 @@ function showImage() {
 
   previousButton.disabled = galleryItems.length < 2;
   nextButton.disabled = galleryItems.length < 2;
+
+  fitTitle();
 }
 
 function move(direction) {
