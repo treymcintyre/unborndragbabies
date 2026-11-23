@@ -127,7 +127,7 @@ const galleryItems = [
     title: "Rhonda CVS"
   },
   {
-    image: "images/ArleneEconomy.png",
+    image: "images/ArleneEconomy.gif",
     title: "Arlene Economy"
   },
   {
