@@ -1013,25 +1013,46 @@ let currentIndex = 0;
 
 function fitTitle() {
   const plaque = titleElement.parentElement;
-  if (!plaque) return;
+  if (!plaque || !titleElement.textContent) return;
 
   titleElement.style.fontSize = "";
   titleElement.style.whiteSpace = "nowrap";
 
-  const available = plaque.clientWidth - 14;
-  let size = parseFloat(window.getComputedStyle(titleElement).fontSize);
+  const computed = window.getComputedStyle(titleElement);
+  const baseSize = parseFloat(computed.fontSize);
 
-  while (titleElement.scrollWidth > available && size > 7) {
-    size -= 0.5;
-    titleElement.style.fontSize = size + "px";
-  }
+  const measurer = document.createElement("span");
+  measurer.style.position = "absolute";
+  measurer.style.visibility = "hidden";
+  measurer.style.whiteSpace = "nowrap";
+  measurer.style.fontFamily = computed.fontFamily;
+  measurer.style.fontWeight = computed.fontWeight;
+  measurer.style.letterSpacing = computed.letterSpacing;
+  measurer.style.textTransform = "uppercase";
+  measurer.style.fontSize = baseSize + "px";
+  measurer.textContent = titleElement.textContent;
+  document.body.appendChild(measurer);
+  const textWidth = measurer.getBoundingClientRect().width;
+  document.body.removeChild(measurer);
 
-  if (titleElement.scrollWidth > available) {
-    titleElement.style.whiteSpace = "";
+  // The flat part of the gold plate is ~61% of the frame width;
+  // the plaque box is 85%, so keep text within ~68% of the box.
+  const available = plaque.clientWidth * 0.68;
+  if (textWidth <= available) return;
+
+  const fitted = Math.floor(baseSize * (available / textWidth) * 10) / 10;
+  if (fitted >= 7) {
+    titleElement.style.fontSize = fitted + "px";
+  } else {
+    titleElement.style.fontSize = "7px";
+    if (textWidth * (7 / baseSize) > available) {
+      titleElement.style.whiteSpace = "";
+    }
   }
 }
 
 window.addEventListener("resize", fitTitle);
+window.addEventListener("load", fitTitle);
 
 function showImage() {
   if (!galleryItems.length) {
