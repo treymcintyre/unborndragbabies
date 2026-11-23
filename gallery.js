@@ -994,6 +994,10 @@ const galleryItems = [
     image: "images/LittleMissCantbewrong.gif",
     title: "Little Miss Cantbewrong"
   }, 
+    {
+    image: "images/LucretiaBlackLagoon.gif",
+    title: "Lucretia from the Black Dragoon"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
