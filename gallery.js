@@ -143,7 +143,7 @@ const galleryItems = [
     title: "Iona Camarro"
   },
   {
-    image: "images/JezebelBottoms.png",
+    image: "images/JezebelBottoms.gif",
     title: "Jezebel Bottoms"
   },
   {
