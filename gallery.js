@@ -1005,6 +1005,10 @@ const galleryItems = [
     image: "images/DarcyTewit.gif",
     title: "Darcy Tewit"
   }, 
+    {
+    image: "images/DrewBlood.gif",
+    title: "Drew Blood"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
