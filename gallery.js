@@ -997,6 +997,9 @@ const galleryItems = [
     {
     image: "images/LucretiaBlackLagoon.gif",
     title: "Lucretia from the Black Dragoon"
+  },     {
+    image: "images/JasmineAllmine.gif",
+    title: "Jasmine Allmine"
   }, 
 ];
 
