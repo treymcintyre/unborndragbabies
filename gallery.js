@@ -1001,6 +1001,10 @@ const galleryItems = [
     image: "images/JasmineAllmine.gif",
     title: "Jasmine Allmine"
   }, 
+    {
+    image: "images/DarcyTewit.gif",
+    title: "Darcy Tewit"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
