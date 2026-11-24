@@ -139,7 +139,7 @@ const galleryItems = [
     title: "Burritza Blizzard"
   },
   {
-    image: "images/IonaCamarro.png",
+    image: "images/IonaCamarro.gif",
     title: "Iona Camarro"
   },
   {
