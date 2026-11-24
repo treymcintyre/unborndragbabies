@@ -183,7 +183,7 @@ const galleryItems = [
     title: "Mo Lashes"
   },
   {
-    image: "images/TeuwetiaZone.png",
+    image: "images/TeuwetiaZone.gif",
     title: "Teuwetia Zone"
   },
   {
