@@ -1009,6 +1009,10 @@ const galleryItems = [
     image: "images/DrewBlood.gif",
     title: "Drew Blood"
   }, 
+    {
+    image: "images/CordeliaTarot.gif",
+    title: "Cordelia Tarot"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
