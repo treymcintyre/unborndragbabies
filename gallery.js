@@ -251,7 +251,7 @@ const galleryItems = [
     title: "Phoebe S. Newshour"
   },
    {
-    image: "images/Protein.png",
+    image: "images/Protein.gif",
     title: "Protein"
   },
    {
