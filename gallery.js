@@ -1013,6 +1013,10 @@ const galleryItems = [
     image: "images/CordeliaTarot.gif",
     title: "Cordelia Tarot"
   }, 
+  {
+    image: "images/MissNTerry.gif",
+    title: "Miss N. Terry"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
