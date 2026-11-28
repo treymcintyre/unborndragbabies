@@ -1025,6 +1025,10 @@ const galleryItems = [
     image: "images/DFloresYohrs.gif",
     title: "D'Flores Yohrs"
   }, 
+  {
+    image: "images/JoanSing.gif",
+    title: "Joan Sing"
+  }, 
 ];
 
 const emptyState = document.getElementById("emptyState");
